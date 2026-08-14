@@ -1,0 +1,2 @@
+.app{width:100%;max-width:1800px;min-height:100vh;padding-left:clamp(18px,3vw,56px);padding-right:clamp(18px,3vw,56px)}
+@media(min-width:801px) and (max-width:1180px){.board{grid-template-columns:repeat(2,minmax(300px,1fr));overflow:visible}.hero{padding-top:50px}}
